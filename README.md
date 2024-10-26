@@ -15,7 +15,7 @@ Este repositório contém uma aplicação web construída em **Streamlit**, dest
 ## Como Executar o Projeto:
 1. Clone o repositório.
 2. Instale as dependências com `pip install -r requirements.txt`.
-3. Execute a aplicação com `streamlit run app.py`.
+3. Execute a aplicação com `streamlit run calcular_projeto.py`.
 
 ## Contribuição:
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
