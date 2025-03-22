@@ -1,4 +1,4 @@
-# Calculadora de Projetos para Desenvolvedores e Analistas de Dados 🚀
+# Calculadora de Projetos para Desenvolvedores e Analistas de Dados
 
 Este repositório contém uma aplicação web construída em **Streamlit**, destinada a desenvolvedores e analistas de dados recém-formados. A ferramenta permite estimar de forma rápida e precisa o valor de projetos, levando em consideração o valor da hora de trabalho, horas estimadas, urgência e a experiência das pessoas envolvidas.
 
